@@ -2,7 +2,7 @@
   "Presets": [
     {
       "name": "Warm Chill",
-       "transition": 2.5,
+      "transition": 2.5,
       "overridenGroups": [
         { "name": "Global", "color": "#FFA347", "intensity": 50 },
         { "name": "Scene", "color": "#FF6B1A", "intensity": 120 }
