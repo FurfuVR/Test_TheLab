@@ -1,6 +1,55 @@
 {
   "Presets": [
     {
+      "name": "OFF",
+      "overridenGroups": [
+        { "name": "Global", "color": "#000000", "intensity": 0 },
+        { "name": "Scene", "color": "#000000", "intensity": 0 },
+        { "name": "Sofas", "color": "#000000", "intensity": 0 },
+        { "name": "FollowSpot", "color": "#000000", "intensity": 0 }
+      ]
+    },
+    {
+      "name": "Intro PT 1",
+      "transition": 1.5,
+      "overridenGroups": [
+        { "name": "Global", "color": "#000000", "intensity": 0 },
+        { "name": "Scene", "color": "#000000", "intensity": 0 },
+        { "name": "Sofas", "color": "#000000", "intensity": 0 },
+        { "name": "FollowSpot", "color": "#FFFFFF", "intensity": 800 }
+      ]
+    },
+    {
+      "name": "Intro PT 2",
+      "transition": 1.5,
+      "overridenGroups": [
+        { "name": "Global", "color": "#000000", "intensity": 0 },
+        { "name": "Scene", "color": "#FFFFFF", "intensity": 120 },
+        { "name": "Sofas", "color": "#000000", "intensity": 0 },
+        { "name": "FollowSpot", "color": "#FFFFFF", "intensity": 800 }
+      ]
+    },
+    {
+      "name": "Intro PT 3",
+      "transition": 1.5,
+      "overridenGroups": [
+        { "name": "Global", "color": "#000000", "intensity": 0 },
+        { "name": "Scene", "color": "#FFFFFF", "intensity": 250 },
+        { "name": "Sofas", "color": "#FFE447", "intensity": 120 },
+        { "name": "FollowSpot", "color": "#FFFFFF", "intensity": 800 }
+      ]
+    },
+    {
+      "name": "Intro PT 4",
+      "transition": 1.5,
+      "overridenGroups": [
+        { "name": "Global", "color": "#FFFFFF", "intensity": 50 },
+        { "name": "Scene", "color": "#FFFFFF", "intensity": 250 },
+        { "name": "Sofas", "color": "#FFE447", "intensity": 120 },
+        { "name": "FollowSpot", "color": "#FFFFFF", "intensity": 800 }
+      ]
+    },
+    {
       "name": "Warm Chill",
       "transition": 2.5,
       "overridenGroups": [
